@@ -1,0 +1,21 @@
+header {
+    background: pink;
+    width: 100vw;
+    height: 60px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.header-items {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+#name { 
+
+}
